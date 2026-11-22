@@ -1,0 +1,6 @@
+company,contact_name,email,role,website,notes
+Acme AI,Alex Rivera,founder@acmeai-example.com,AI Engineer Intern,https://acmeai-example.com,"Building autonomous agents for customer support; using Python and PyTorch"
+StripeFlow,Sarah Chen,careers@stripeflow-example.com,Full Stack Intern,https://stripeflow-example.com,"SaaS payment orchestration engine; built with Next.js, Node.js and Postgres"
+DataPulse,David Miller,david@datapulse-example.com,Backend Developer Intern,https://datapulse-example.com,"Real-time analytics engine processing streaming data using FastAPI and ClickHouse"
+CloudScale Labs,Elena Rostova,founders@cloudscale-example.com,Software Engineer Intern,https://cloudscale-example.com,"Kubernetes developer tools and internal developer platforms"
+Zenith Health,Dr. Marcus Vance,contact@zenithhealth-example.com,Software / Data Intern,https://zenithhealth-example.com,"AI diagnosis assistance platform for radiology clinics"
