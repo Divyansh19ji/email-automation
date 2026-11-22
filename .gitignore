@@ -1,0 +1,25 @@
+# Environment & secrets
+.env
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Local database & temp uploads
+data/*.db
+data/*.sqlite
+data/temp_*
+exported_*.csv
+
+# Personal resume attachments
+resume/*.pdf
+!resume/README.txt
+
+# OS metadata
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
